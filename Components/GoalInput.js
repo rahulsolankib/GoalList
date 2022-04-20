@@ -77,7 +77,7 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: "center",
     justifyContent: "center",
-    backgroundColor: "#4119ae",
+    backgroundColor: "#1e085a",
     paddingHorizontal: 20,
   },
   textInput: {
